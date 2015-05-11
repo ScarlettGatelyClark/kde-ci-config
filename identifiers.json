@@ -1,0 +1,2875 @@
+[
+{
+    "projectname":"attica",
+    "downstream":"kapidox",
+    "combinations":"LinandOSX"
+},
+{
+    "projectname":"emerge",
+    "cron":"@weekly",
+    "platforms":["Windows"],
+    "compilers":["vs2013"],
+    "combinations":"Win"
+},
+{
+    "projectname":"abakus",
+    "cron":"@weekly"
+},
+{
+    "projectname":"about-distro",
+    "cron":"@weekly"
+},
+{
+    "projectname":"activities-support",
+    "cron":"@weekly"
+},
+{
+    "projectname":"aki",
+    "cron":"@weekly"
+},
+{
+    "projectname":"akonadi-calendar",
+    "cron":"@weekly",
+    "email":"kde-pim@kde.org"
+},
+{
+    "projectname":"akonadi-exchange",
+    "cron":"@weekly",
+    "email":"kde-pim@kde.org"
+},
+{
+    "projectname":"akonadi-facebook",
+    "cron":"@weekly",
+    "email":"kde-pim@kde.org"
+},
+{
+    "projectname":"akonadi-git-resource",
+    "cron":"@weekly",
+    "email":"kde-pim@kde.org"
+},
+{
+    "projectname":"akonadi-google-applets",
+    "cron":"@weekly",
+    "email":"kde-pim@kde.org"
+},
+{
+    "projectname":"akonadi-search",
+    "cron":"@weekly",
+    "email":"kde-pim@kde.org"
+},
+{
+    "projectname":"akonadi-sugarcrm",
+    "cron":"@weekly",
+    "email":"kde-pim@kde.org"
+},
+{
+    "projectname":"akonadi-vkontakte",
+    "cron":"@weekly",
+    "email":"kde-pim@kde.org"
+},
+{
+    "projectname":"akonadi",
+    "cron":"@weekly",
+    "email":"kde-pim@kde.org"
+},
+{
+    "projectname":"akonadiclient",
+    "cron":"@weekly",
+    "email":"kde-pim@kde.org"
+},
+{
+    "projectname":"akunambol",
+    "cron":"@weekly"
+},
+{
+    "projectname":"alkimia",
+    "cron":"@weekly"
+},
+{
+    "projectname":"amarok",
+    "cron":"@weekly"
+},
+{
+    "projectname":"amor",
+    "cron":"@weekly"
+},
+{
+    "projectname":"analitza",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"apper",
+    "cron":"@weekly"
+},
+{
+    "projectname":"appmenu-runner",
+    "cron":"@weekly"
+},
+{
+    "projectname":"ark",
+    "cron":"@weekly"
+},
+{
+    "projectname":"artikulate-data",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"artikulate",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"audex",
+    "cron":"@weekly"
+},
+{
+    "projectname":"audiocd-kio",
+    "cron":"@weekly"
+},
+{
+    "projectname":"automoc",
+    "cron":"@weekly"
+},
+{
+    "projectname":"baloo-widgets",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"baloo",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"bangarang",
+    "cron":"@weekly"
+},
+{
+    "projectname":"blinken",
+    "cron":"@weekly"
+},
+{
+    "projectname":"bodega-client",
+    "cron":"@weekly"
+},
+{
+    "projectname":"bodega-server",
+    "cron":"@weekly"
+},
+{
+    "projectname":"bodega-webapp-client",
+    "cron":"@weekly"
+},
+{
+    "projectname":"bodega-webapp-manager",
+    "cron":"@weekly"
+},
+{
+    "projectname":"activities-support",
+    "cron":"@weekly"
+},
+{
+    "projectname":"bomber",
+    "cron":"@weekly"
+},
+{
+    "projectname":"bookmanager",
+    "cron":"@weekly"
+},
+{
+    "projectname":"bovo",
+    "cron":"@weekly"
+},
+{
+    "projectname":"breeze",
+    "cron":"@weekly"
+},
+{
+    "projectname":"cagibi",
+    "cron":"@weekly"
+},
+{
+    "projectname":"calligra",
+    "cron":"@weekly",
+    "variations":["NoOpenGL","All"],
+    "email":"calligra-devel@kde.org",
+    "irc":"#calligra"
+},
+{
+    "projectname":"cantor",
+    "cron":"@weekly"
+},
+{
+    "projectname":"cervisia",
+    "cron":"@weekly"
+},
+{
+    "projectname":"choqok",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"cirkuit",
+    "cron":"@weekly"
+},
+{
+    "projectname":"cmetronome",
+    "cron":"@weekly"
+},
+{
+    "projectname":"cocoon",
+    "cron":"@weekly"
+},
+{
+    "projectname":"colibri",
+    "cron":"@weekly"
+},
+{
+    "projectname":"colord-kde",
+    "cron":"@weekly"
+},
+{
+    "projectname":"conquirere",
+    "cron":"@weekly"
+},
+{
+    "projectname":"contour",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kimono",
+    "cron":"@weekly"
+},
+{
+    "projectname":"qyoto",
+    "cron":"@weekly"
+},
+{
+    "projectname":"cutepaste",
+    "cron":"@weekly"
+},
+{
+    "projectname":"cxx11-cmake-modules",
+    "cron":"@weekly"
+},
+{
+    "projectname":"dekorator",
+    "cron":"@weekly"
+},
+{
+    "projectname":"dferry",
+    "cron":"@weekly"
+},
+{
+    "projectname":"digikam-doc",
+    "cron":"@weekly"
+},
+{
+    "projectname":"digikam",
+    "cron":"@weekly"
+},
+{
+    "projectname":"dolphin",
+    "downstream":"dolphin-plugins",
+    "cron":"@weekly"
+},
+{
+    "projectname":"dolphin-plugins"
+},
+{
+    "projectname":"dragon",
+    "cron":"@weekly"
+},
+{
+    "projectname":"ebookreader",
+    "cron":"@weekly"
+},
+{
+    "projectname":"extra-cmake-modules",
+    "cron":"@weekly",
+    "combinations":"LinandOSX"
+},
+{
+    "projectname":"ffmpegthumbs",
+    "cron":"@weekly"
+},
+{
+    "projectname":"filelight",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libkcompactdisc",
+    "cron":"@weekly"
+},
+{
+    "projectname":"flickr-runner",
+    "cron":"@weekly"
+},
+{
+    "projectname":"frameworkintegration",
+    "downstream":"kjs",
+    "combinations":"LinandOSX"
+},
+{
+    "projectname":"gcompris",
+    "cron":"@weekly"
+},
+{
+    "projectname":"gestures-kde",
+    "cron":"@weekly"
+},
+{
+    "projectname":"ginkgo",
+    "cron":"@weekly"
+},
+{
+    "projectname":"gluon-blocks",
+    "cron":"@weekly"
+},
+{
+    "projectname":"gluon",
+    "cron":"@weekly"
+},
+{
+    "projectname":"gpgmepp",
+    "cron":"@weekly",
+    "email":"kde-pim@kde.org"
+},
+{
+    "projectname":"granatier",
+    "cron":"@weekly"
+},
+{
+    "projectname":"gwenview",
+    "cron":"@weekly"
+},
+{
+    "projectname":"heaptrack",
+    "cron":"@weekly"
+},
+{
+    "projectname":"homerun",
+    "cron":"@weekly"
+},
+{
+    "projectname":"inqlude-client",
+    "cron":"@weekly"
+},
+{
+    "projectname":"jovie",
+    "cron":"@weekly"
+},
+{
+    "projectname":"jsmoke",
+    "cron":"@weekly"
+},
+{
+    "projectname":"juk",
+    "cron":"@weekly"
+},
+{
+    "projectname":"jungle",
+    "cron":"@weekly"
+},
+{
+    "projectname":"k3b",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kaccessible",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kaccounts-integration",
+    "cron":"@weekly",
+    "email":"mklapetek@kde.org ",
+    "irc":"#kde-telepathy",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kaccounts-providers",
+    "cron":"@weekly",
+    "email":"mklapetek@kde.org ",
+    "irc":"#kde-telepathy",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kactivities",
+    "downstream":"kparts"
+},
+{
+    "projectname":"kaffeine",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kajongg",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kalarmcal",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kalgebra",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kalternatives",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kalzium",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kamera",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kamoso",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kanagram",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kanalytics",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kannasaver",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kapidox",
+    "downstream":"karchive",
+    "combinations":"LinandOSX"
+},
+{
+    "projectname":"kapman",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kapptemplate",
+    "cron":"@weekly"
+},
+{
+    "projectname":"karchive",
+    "downstream":"kcodecs",
+    "combinations":"LinandOSX"
+},
+{
+    "projectname":"kard",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kartesio",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kate",
+    "cron":"@weekly"
+},
+{
+    "projectname":"katomic",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kaudiocreator",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kauth",
+    "downstream":"kcompletion",
+    "combinations":"LinandOSX"
+},
+{
+    "projectname":"kbibtex",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kblackbox",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kblocks",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kblog",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kbookmarks",
+    "downstream":"kwallet",
+    "combinations":"LinandOSX"
+},
+{
+    "projectname":"kbounce",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kbreakout",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kbruch",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kcachegrind",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kcalc",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kcalcore",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kcalutils",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kcharselect",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kcm-grub2",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kcm-userconfig",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kcmgrub2",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kcmutils",
+    "downstream":"kactivities"
+},
+{
+    "projectname":"kcodecs",
+    "downstream":"kconfig"
+},
+{
+    "projectname":"kcolorchooser",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kcoloredit",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kcompletion",
+    "downstream":"kcrash"
+},
+{
+    "projectname":"kconfig",
+    "downstream":"kcoreaddons",
+    "email":"kdeci@mjdsystems.ca"
+},
+{
+    "projectname":"kconfigwidgets",
+    "downstream":"kservice"
+},
+{
+    "projectname":"kcontacts",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kcoreaddons",
+    "downstream":"kdbusaddons"
+},
+{
+    "projectname":"kcrash",
+    "downstream":"kdoctools"
+},
+{
+    "projectname":"kcwsh",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kdbusaddons",
+    "downstream":"kdnssd"
+},
+{
+    "projectname":"kde-accounts",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kde-artwork-active",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kde-baseapps",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kde-cli-tools",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kde-dev-scripts",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kde-dev-utils",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kde-gtk-config",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kde-ruleset",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kde-runtime",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kde-workspace",
+    "combinations":"Linux",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kdeclarative",
+    "downstream":"kcmutils"
+},
+{
+    "projectname":"kdeconnect-android",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kdeconnect-kde",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kdecoration-viewer",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kdecoration",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kded",
+    "downstream":"kmediaplayer"
+},
+{
+    "projectname":"kdegraphics-mobipocket",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kdegraphics-strigi-analyzer",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kdegraphics-thumbnailers",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kdelibs",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kdelibs4support",
+    "downstream":"khtml"
+
+},
+{
+    "projectname":"kdenetwork-filesharing",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kdenetwork-strigi-analyzers",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kdenlive",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kdepim",
+    "cron":"@weekly",
+    "email":"kde-pim@kde.org"
+},
+{
+    "projectname":"kdepim-runtime",
+    "cron":"@weekly",
+    "email":"kde-pim@kde.org"
+},
+{
+    "projectname":"kdepimlibs",
+    "cron":"@weekly",
+    "email":"kde-pim@kde.org"
+},
+{
+    "projectname":"kdeplasma-addons",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kdesdk-kioslaves",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kdesdk-strigi-analyzers",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kdesdk-thumbnailers",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kdesignerplugin",
+    "downstream":"kxmlrpcclient"
+},
+{
+    "projectname":"kdesrc-build",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kdesu",
+    "downstream":"kemoticons"
+},
+{
+    "projectname":"kdesvn",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kdev-clang",
+    "cron":"@weekly",
+    "combinations":"Linux" 
+},
+{
+    "projectname":"kdev-cppcheck",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kdev-control-flow-graph",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kdev-css",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kdev-executebrowser",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kdev-go",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kdev-java",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kdev-krazy2",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kdev-mercurial",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kdev-perforce",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kdev-php-docs",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kdev-php",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kdev-python",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kdev-qmake",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kdev-qmljs",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kdev-ruby",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kdev-sql",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kdev-upload",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kdev-valgrind",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kdev-www",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kdev-xdebug",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kdev-xml",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kdevelop",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kdevelop-pg-qt",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kdevplatform",
+    "cron":"@weekly"   
+},
+{
+    "projectname":"kdewebkit",
+    "downstream":"kinit"
+},
+{
+    "projectname":"kdewin-installer",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kdewin",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kdewebdev",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kdf",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kdiagram",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kdiamond",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kdisksutilities",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kdnssd",
+    "email":"kdeci@mjdsystems.ca",
+    "downstream":"kguiaddons"
+},
+{
+    "projectname":"kdoctools",
+    "downstream":"kjobwidgets"
+},
+{
+    "projectname":"kdocumentstore",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kdots",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kemoticons",
+    "downstream":"kpackage"
+},
+{
+    "projectname":"kf5book",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kfilemetadata",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kfloppy",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kppp",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kfourinline",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kfritz",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kgamma",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kgeography",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kget",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kglobalaccel",
+    "downstream":"knotifications"
+},
+{
+    "projectname":"kgoldrunner",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kgpg",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kgraphviewer",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kguiaddons",
+    "downstream":"ki18n"
+},
+{
+    "projectname":"khangman",
+    "cron":"@weekly"
+},
+{
+    "projectname":"khelpcenter",
+    "cron":"@weekly"
+},
+{
+    "projectname":"khipu",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kholidays",
+    "cron":"@weekly",
+    "email":"kde-pim@kde.org"
+},
+{
+    "projectname":"khotkeys",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"khtml",
+    "downstream":"kjsembed"
+},
+{
+    "projectname":"ki18n",
+    "downstream":"kidletime"
+},
+{
+    "projectname":"kiconthemes",
+    "downstream":"ktextwidgets"
+},
+{
+    "projectname":"kidentitymanagement",
+    "cron":"@weekly",
+    "email":"kde-pim@kde.org"
+},
+{
+    "projectname":"kidletime",
+    "downstream":"kimageformats"
+},
+{
+    "projectname":"kig",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kigo",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kile",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"killbots",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kimageformats",
+    "downstream":"kitemmodels"
+},
+{
+    "projectname":"kimap",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kimtoy",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kinfocenter",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kinit",
+    "downstream":"kded"
+},
+{
+    "projectname":"kio-extras",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kio-gopher",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kio-mtp",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kio-upnp-ms",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kio",
+    "downstream":"kdeclarative"
+},
+{
+    "projectname":"kipi-plugins",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kipi-plugins-doc",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kiriki",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kitemmodels",
+    "downstream":"kitemviews"
+},
+{
+    "projectname":"kitemviews",
+    "downstream":"kplotting"
+},
+{
+    "projectname":"kiten",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kjobwidgets",
+    "downstream":"kpty"
+},
+{
+    "projectname":"kjs",
+    "downstream":"kdelibs4support"
+},
+{
+    "projectname":"kjsembed",
+    "downstream":"kross"
+},
+{
+    "projectname":"kjumpingcube",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kldap",
+    "cron":"@weekly"
+},
+{
+    "projectname":"klettres",
+    "cron":"@weekly"
+},
+{
+    "projectname":"klickety",
+    "cron":"@weekly"
+},
+{
+    "projectname":"klines",
+    "cron":"@weekly"
+},
+{
+    "projectname":"klook",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kmag",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kmahjongg",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kmailtransport",
+    "cron":"@weekly",
+    "email":"kde-pim@kde.org"
+},
+{
+    "projectname":"kmbox",
+    "cron":"@weekly",
+    "email":"kde-pim@kde.org"
+},
+{
+    "projectname":"kmediaplayer",
+    "downstream":"knewstuff"
+},
+{
+    "projectname":"kmenuedit",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kmime",
+    "cron":"@weekly",
+    "email":"kde-pim@kde.org"
+},
+{
+    "projectname":"kmines",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kmix",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kmousetool",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kmouth",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kmplayer",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kmplot",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kmuddy",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kmymoney",
+    "cron":"@weekly"
+},
+{
+    "projectname":"knavalbattle",
+    "cron":"@weekly"
+},
+{
+    "projectname":"knetwalk",
+    "cron":"@weekly"
+},
+{
+    "projectname":"knewstuff",
+    "downstream":"knotifyconfig"
+},
+{
+    "projectname":"knights",
+    "cron":"@weekly"
+},
+{
+    "projectname":"knipptasch",
+    "cron":"@weekly"
+},
+{
+    "projectname":"knotifications",
+    "downstream":"kxmlgui",
+    "email":"mklapetek@kde.org"
+},
+{
+    "projectname":"knotifyconfig",
+    "downstream":"ktexteditor"
+},
+{
+    "projectname":"koko",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kolena",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kolf",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kollision",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kolor-manager",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kolourpaint",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kompare",
+    "cron":"@weekly"
+},
+{
+    "projectname":"konquest",
+    "cron":"@weekly"
+},
+{
+    "projectname":"konsole",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kontactinterface",
+    "cron":"@weekly",
+    "email":"kde-pim@kde.org"
+},
+{
+    "projectname":"kontaminuti",
+    "cron":"@weekly"
+},
+{
+    "projectname":"konversation",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kooka",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kopete-pimpresence",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kopete-protocol-telepathy",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kopete-scripting",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kopete-sharemydesktop",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kopete-smpppdcs",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kopete-thinklight",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kopete-whiteboard",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kopete",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kor",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kparts",
+    "downstream":"kdewebkit"
+},
+{
+    "projectname":"kpaste",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kpat",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kpeg",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kphotoalbum",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kpimtextedit",
+    "cron":"@weekly",
+    "email":"kde-pim@kde.org"
+},
+{
+    "projectname":"kplotting",
+    "downstream":"kwidgetsaddons"
+},
+{
+    "projectname":"kprinter4",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kpty",
+    "downstream":"kunitconversion"
+},
+{
+    "projectname":"kqtquickcharts",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kraft",
+    "cron":"@weekly"
+},
+{
+    "projectname":"krdc",
+    "cron":"@weekly"
+},
+{
+    "projectname":"krecipes",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kscreenshot-editor",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kregexpeditor",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kremotecontrol",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kreversi",
+    "cron":"@weekly"
+},
+{
+    "projectname":"krfb",
+    "cron":"@weekly"
+},
+{
+    "projectname":"krono",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kronometer",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kross-interpreters",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kross",
+    "downstream":"plasma-framework"
+},
+{
+    "projectname":"kruler",
+    "cron":"@weekly"
+},
+{
+    "projectname":"krunner"
+},
+{
+    "projectname":"krusader",
+    "cron":"@weekly"
+},
+{
+    "projectname":"ksaneplugin",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"ksaolaji",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kscd",
+    "cron":"@weekly"
+},
+{
+    "projectname":"ksecrets",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kservice",
+    "downstream":"kdesu"
+},
+{
+    "projectname":"kshisen",
+    "cron":"@weekly"
+},
+{
+    "projectname":"ksirk",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"ksmtp",
+    "cron":"@weekly",
+    "email":"kde-pim@kde.org"
+},
+{
+    "projectname":"ksnakeduel",
+    "cron":"@weekly"
+},
+{
+    "projectname":"ksnapshot",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"ksokoban",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kspaceduel",
+    "cron":"@weekly"
+},
+{
+    "projectname":"ksquares",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kst-plot",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kstars",
+    "cron":"@weekly"
+},
+{
+    "projectname":"ksudoku",
+    "cron":"@weekly"
+},
+{
+    "projectname":"ksysguard",
+    "cron":"@weekly"
+},
+{
+    "projectname":"ksystemlog",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kuser",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kcron",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kte-collaborative",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kteatime",
+    "cron":"@weekly"
+},
+{
+    "projectname":"ktexteditor",
+    "downstream":"kdesignerplugin"
+},
+{
+    "projectname":"ktextwidgets",
+    "downstream":"kglobalaccel"
+},
+{
+    "projectname":"ktimer",
+    "cron":"@weekly"
+},
+{
+    "projectname":"ktnef",
+    "cron":"@weekly",
+    "email":"kde-pim@kde.org"
+},
+{
+    "projectname":"ktorrent",
+    "cron":"@weekly"
+},
+{
+    "projectname":"ktouch",
+    "cron":"@weekly"
+},
+{
+    "projectname":"ktp-accounts-kcm",
+    "cron":"@weekly",   
+    "email":"mklapetek@kde.org ",
+    "irc":"#kde-telepathy",
+    "combinations":"Linux"
+},
+{
+    "projectname":"ktp-active",
+    "cron":"@weekly",
+    "email":"mklapetek@kde.org ",
+    "irc":"#kde-telepathy",
+    "combinations":"Linux"
+},
+{
+    "projectname":"ktp-approver",
+    "cron":"@weekly",
+    "email":"mklapetek@kde.org ",
+    "irc":"#kde-telepathy",
+    "combinations":"Linux"
+},
+{
+    "projectname":"ktp-auth-handler",
+    "cron":"@weekly",
+    "email":"mklapetek@kde.org ",
+    "irc":"#kde-telepathy",
+    "combinations":"Linux"
+},
+{
+    "projectname":"ktp-call-ui",
+    "cron":"@weekly",
+    "email":"mklapetek@kde.org ",
+    "irc":"#kde-telepathy",
+    "combinations":"Linux"
+},
+{
+    "projectname":"ktp-contact-list",
+    "cron":"@weekly",
+    "email":"mklapetek@kde.org ",
+    "irc":"#kde-telepathy",
+    "combinations":"Linux"
+},
+{
+    "projectname":"ktp-contact-runner",
+    "cron":"@weekly",
+    "email":"mklapetek@kde.org ",
+    "irc":"#kde-telepathy",
+    "combinations":"Linux"
+},
+{
+    "projectname":"ktp-common-internals",
+    "cron":"@weekly",
+    "email":"mklapetek@kde.org ",
+    "irc":"#kde-telepathy",
+    "combinations":"Linux"
+},
+{
+    "projectname":"ktp-desktop-applets",
+    "cron":"@weekly",
+    "email":"mklapetek@kde.org ",
+    "irc":"#kde-telepathy",
+    "combinations":"Linux"
+},
+{
+    "projectname":"ktp-filetransfer-handler",
+    "cron":"@weekly",
+    "email":"mklapetek@kde.org ",
+    "irc":"#kde-telepathy",
+    "combinations":"Linux"
+},
+{
+    "projectname":"ktp-kde",
+    "cron":"@weekly",
+    "email":"mklapetek@kde.org ",
+    "irc":"#kde-telepathy",
+    "combinations":"Linux"
+},
+{
+    "projectname":"ktp-kded-module",
+    "cron":"@weekly",
+    "email":"mklapetek@kde.org ",
+    "irc":"#kde-telepathy",
+    "combinations":"Linux"
+},
+{
+    "projectname":"ktp-kipi-plugin",
+    "cron":"@weekly",
+    "email":"mklapetek@kde.org ",
+    "irc":"#kde-telepathy",
+    "combinations":"Linux"
+},
+{
+    "projectname":"ktp-launcher-kded",
+    "cron":"@weekly",
+    "email":"mklapetek@kde.org ",
+    "irc":"#kde-telepathy",
+    "combinations":"Linux"
+},
+{
+    "projectname":"ktp-nepomuk-service",
+    "cron":"@weekly",
+    "email":"mklapetek@kde.org ",
+    "irc":"#kde-telepathy",
+    "combinations":"Linux"
+},
+{
+    "projectname":"ktp-presence-dataengine",
+    "cron":"@weekly",
+    "email":"mklapetek@kde.org ",
+    "irc":"#kde-telepathy",
+    "combinations":"Linux"
+},
+{
+    "projectname":"ktp-send-file",
+    "cron":"@weekly",
+    "email":"mklapetek@kde.org ",
+    "irc":"#kde-telepathy",
+    "combinations":"Linux"
+},
+{
+    "projectname":"ktp-ssh-contact",
+    "cron":"@weekly",
+    "email":"mklapetek@kde.org ",
+    "irc":"#kde-telepathy",
+    "combinations":"Linux"
+},
+{
+    "projectname":"ktp-test-tool",
+    "cron":"@weekly",
+    "email":"mklapetek@kde.org ",
+    "irc":"#kde-telepathy",
+    "combinations":"Linux"
+},
+{
+    "projectname":"ktp-testlib",
+    "cron":"@weekly",
+    "email":"mklapetek@kde.org ",
+    "irc":"#kde-telepathy",
+    "combinations":"Linux"
+},
+{
+    "projectname":"ktp-text-ui",
+    "cron":"@weekly",
+    "email":"mklapetek@kde.org ",
+    "irc":"#kde-telepathy",
+    "combinations":"Linux"
+},
+{
+    "projectname":"ktuberling",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kturtle",
+    "cron":"@weekly"
+},
+{
+    "projectname":"ktutorial",
+    "cron":"@weekly"
+},
+{
+    "projectname":"ktux",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kubeplayer",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kubrick",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kdebugsettings",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kunitconversion",
+    "downstream":"kconfigwidgets"
+},
+{
+    "projectname":"kvkbd",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kwallet",
+    "downstream":"kio"
+},
+{
+    "projectname":"kwalletmanager",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kwave",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kwayland",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kwebkitpart",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kwhiteboard",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kwidgetsaddons",
+    "downstream":"kwindowsystem"
+},
+{
+    "projectname":"kwin",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kwindowaddons",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kwindowsystem",
+    "downstream":"solid",
+    "variations":["NoX11","All"],
+    "variationosx":["NoX11"]
+},
+{
+    "projectname":"kwordquiz",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kwrited",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kxmlgui",
+    "downstream":"kbookmarks"
+},
+{
+    "projectname":"kxmlrpcclient",
+    "downstream":"frameworkintegration"
+},
+{
+    "projectname":"kxstitch",
+    "cron":"@weekly"
+},
+{
+    "projectname":"labplot",
+    "cron":"@weekly"
+},
+{
+    "projectname":"lancelot",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libdebconf-kde",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libechonest",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libkcddb",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libkcw",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libkdcraw",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libkdeaccessibilityclient",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libkdeedu",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libkdegames",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libkeduvocdocument",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libkexiv2",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libkface",
+    "downstream":"digikam",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libkfbapi",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libkgapi",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libkgeomap",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libkipi",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libkmahjongg",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libkomparediff2",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libkoralle",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libkpeople",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libksane",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"libkscreen",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"kscreen",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"libksysguard",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libktorrent",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libkvkontakte",
+    "cron":"@weekly"
+},
+{
+    "projectname":"liblikeback",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libmediawiki",
+    "cron":"@weekly"
+},
+{
+    "projectname":"modemmanager-qt",
+    "downstream":"networkmanager-qt",
+    "combinations":"Linux"
+},
+{
+    "projectname":"libqapt",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"libqgit2",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libqinfinity",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libqsystemd",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libqzeitgeist",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libringclient",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"libstreamanalyzer",
+    "downstream":"strigiutils",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libstreams",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libtagaro",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libtmdbqt",
+    "cron":"@weekly"
+},
+{
+    "projectname":"lightdm",
+    "cron":"@weekly"
+},
+{
+    "projectname":"lokalize",
+    "cron":"@weekly"
+},
+{
+    "projectname":"lskat",
+    "cron":"@weekly"
+},
+{
+    "projectname":"macports-kde",
+    "cron":"@weekly",
+    "platforms":["OSX"],
+    "compilers":["clang"]
+},
+{
+    "projectname":"mangonel",
+    "cron":"@weekly"
+},
+{
+    "projectname":"marble",
+    "cron":"@weekly"
+},
+{
+    "projectname":"massif-visualizer",
+    "cron":"@weekly"
+},
+{
+    "projectname":"milou",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"mplayerthumbs",
+    "cron":"@weekly"
+},
+{
+    "projectname":"mrdanga-player",
+    "cron":"@weekly"
+},
+{
+    "projectname":"mula",
+    "cron":"@weekly"
+},
+{
+    "projectname":"muon",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"nepomuk-core",
+    "cron":"@weekly"
+},
+{
+    "projectname":"nepomuk-system-tray",
+    "cron":"@weekly"
+},
+{
+    "projectname":"nepomuk-tools",
+    "cron":"@weekly"
+},
+{
+    "projectname":"nepomuk-web-extactor",
+    "cron":"@weekly"
+},
+{
+    "projectname":"nepomuk-webminer",
+    "cron":"@weekly"
+},
+{
+    "projectname":"nepomuk-widgets",
+    "cron":"@weekly"
+},
+{
+    "projectname":"nepomukannotation",
+    "cron":"@weekly"
+},
+{
+    "projectname":"nepomukextras",
+    "cron":"@weekly"
+},
+{
+    "projectname":"nepomukshell",
+    "cron":"@weekly"
+},
+{
+    "projectname":"nepomuktvnamer",
+    "cron":"@weekly"
+},
+{
+    "projectname":"networkmanagement",
+    "cron":"@weekly"
+},
+{
+    "projectname":"notably",
+    "cron":"@weekly"
+},
+{
+    "projectname":"notificationsurvey",
+    "cron":"@weekly"
+},
+{
+    "projectname":"okteta",
+    "cron":"@weekly"
+},
+{
+    "projectname":"okular",
+    "cron":"@weekly"
+},
+{
+    "projectname":"osx-patches",
+    "cron":"@weekly",
+    "platforms":["OSX"],
+    "compilers":["clang"]
+},
+{
+    "projectname":"oxygen-fonts",
+    "cron":"@weekly"
+},
+{
+    "projectname":"oxygen-gtk",
+    "cron":"@weekly"
+},
+{
+    "projectname":"oxygen-transparent",
+    "cron":"@weekly"
+},
+{
+    "projectname":"oxygen",
+    "cron":"@weekly"
+},
+{
+    "projectname":"pairs",
+    "cron":"@weekly"
+},
+{
+    "projectname":"palapeli",
+    "cron":"@weekly"
+},
+{
+    "projectname":"parley",
+    "cron":"@weekly"
+},
+{
+    "projectname":"partitionmanager",    
+    "combinations":"Linux",
+    "cron":"@weekly"
+},
+{
+    "projectname":"perlqt",
+    "cron":"@weekly"
+},
+{
+    "projectname":"perlkde",
+    "cron":"@weekly"
+},
+{
+    "projectname":"person-viewer",
+    "cron":"@weekly"
+},
+{
+    "projectname":"phoneblocker",
+    "cron":"@weekly"
+},
+{
+    "projectname":"phonon-gstreamer",
+    "cron":"@weekly"
+},
+{
+    "projectname":"phonon",
+    "cron":"@weekly"
+},
+{
+    "projectname":"photobook",
+    "cron":"@weekly"
+},
+{
+    "projectname":"picmi",
+    "cron":"@weekly"
+},
+{
+    "projectname":"plasma-active-kickstart",
+    "cron":"@weekly"
+},
+{
+    "projectname":"plasma-active-maliit",
+    "cron":"@weekly"
+},
+{
+    "projectname":"plasma-crystal",
+    "cron":"@weekly"
+},
+{
+    "projectname":"plasma-desktop",
+    "combinations":"Linux",
+    "cron":"@weekly"
+},
+{
+    "projectname":"plasma-framework",
+    "downstream":"krunner",
+    "variations":["NoX11","All"],
+    "variationosx":["NoX11"],
+    "combinations":"Linux"
+},
+{
+    "projectname":"plasma-lionmail",
+    "cron":"@weekly"
+},
+{
+    "projectname":"plasma-mediacenter",
+    "email":"Bhushan Shah <bhush94@gmail.com>",
+    "cron":"@weekly"
+},
+{
+    "projectname":"plasma-mobile-config",
+    "cron":"@weekly"
+},
+{
+    "projectname":"plasma-mobile",
+    "cron":"@weekly"
+},
+{
+    "projectname":"plasma-nm",
+    "cron":"@weekly",
+    "combinations":"Linux"    
+},
+{
+    "projectname":"plasma-workspace-wallpapers",
+    "cron":"@weekly"
+},
+{
+    "projectname":"plasma-workspace",
+    "combinations":"Linux",
+    "cron":"@weekly"
+},
+{
+    "projectname":"plasma",
+    "cron":"@weekly"
+},
+{
+    "projectname":"plasma-sdk",
+    "cron":"@weekly"
+},
+{
+    "projectname":"plasmoid-eventlist",
+    "cron":"@weekly"
+},
+{
+    "projectname":"plugins",
+    "cron":"@weekly"
+},
+{
+    "projectname":"polkit-kde-kcmodules-1",
+    "cron":"@weekly"
+},
+{
+    "projectname":"polkit-qt-1",
+    "combinations":"Linux",
+    "cron":"@weekly"
+},
+{
+    "projectname":"powerdevil",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"poxml",
+    "cron":"@weekly"
+},
+{
+    "projectname":"predicate",
+    "cron":"@weekly"
+},
+{
+    "projectname":"print-manager",
+    "cron":"@weekly"
+},
+{
+    "projectname":"prison",
+    "cron":"@weekly"
+},
+{
+    "projectname":"publictransport",
+    "cron":"@weekly"
+},
+{
+    "projectname":"pykde4",
+    "cron":"@weekly"
+},
+{
+    "projectname":"pykde5",
+    "cron":"@weekly"
+},
+{
+    "projectname":"qca",
+    "cron":"@weekly"
+},
+{
+    "projectname":"qmlweb",
+    "cron":"@weekly"
+},
+{
+    "projectname":"qt",
+    "logrotator":"-1,5,-1,-1",
+    "downstream":"automoc",
+    "coberturareport":"false",
+    "cron":"@weekly"
+},
+{
+    "projectname":"qt5",
+    "logrotator":"-1,5,-1,-1", 
+    "downstream":"extra-cmake-modules",
+    "coberturareport":"false",
+    "cron":"@weekly",
+    "email":"sgclark@kubuntu.org",
+    "irc":"#kde-builds",
+    "combinations":"default"
+},
+{
+    "projectname":"qtatspi",
+    "cron":"@weekly"
+},
+{
+    "projectname":"qtcurve",
+    "cron":"@weekly"
+},
+{
+    "projectname":"qtjolie",
+    "cron":"@weekly"
+},
+{
+    "projectname":"qtruby",
+    "cron":"@weekly"
+},
+{
+    "projectname":"quanta",
+    "cron":"@weekly"
+},
+{
+    "projectname":"qyoto",
+    "cron":"@weekly"
+},
+{
+    "projectname":"rekollect",
+    "cron":"@weekly"
+},
+{
+    "projectname":"rekonq",
+    "cron":"@weekly"
+},
+{
+    "projectname":"release-me",
+    "cron":"@weekly"
+},
+{
+    "projectname":"release-buddy",
+    "cron":"@weekly"
+},
+{
+    "projectname":"rkward",
+    "cron":"@weekly"
+},
+{
+    "projectname":"rocs",
+    "cron":"@weekly"
+},
+{
+    "projectname":"scribo",
+    "cron":"@weekly"
+},
+{
+    "projectname":"sddm-kcm",
+    "combinations":"Linux",
+    "cron":"@weekly"
+},
+{
+    "projectname":"sflphone-kde",
+    "cron":"@weekly"
+},
+{
+    "projectname":"share-like-connect",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"signon-kwallet-extension",
+    "cron":"@weekly"
+},
+{
+    "projectname":"silk",
+    "cron":"@weekly"
+},
+{
+    "projectname":"simon",
+    "cron":"@weekly"
+},
+{
+    "projectname":"simon-tools",
+    "cron":"@weekly"
+},
+{
+    "projectname":"skanlite",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"skrooge",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"smaragd",
+    "cron":"@weekly"
+},
+{
+    "projectname":"smb4k",
+    "cron":"@weekly"
+},
+{
+    "projectname":"smokegen",
+    "cron":"@weekly"
+},
+{
+    "projectname":"smokekde",
+    "cron":"@weekly"
+},
+{
+    "projectname":"smokeqt",
+    "cron":"@weekly"
+},
+{
+    "projectname":"solid",
+    "downstream":"sonnet"
+},
+{
+    "projectname":"sonnet",
+    "downstream":"threadweaver"
+},
+{
+    "projectname":"sprinter",
+    "cron":"@weekly"
+},
+{
+    "projectname":"stackfolder",
+    "cron":"@weekly"
+},
+{
+    "projectname":"startactive",
+    "cron":"@weekly"
+},
+{
+    "projectname":"step",
+    "cron":"@weekly"
+},
+{
+    "projectname":"stibium",
+    "cron":"@weekly"
+},
+{
+    "projectname":"strigidaemon",
+    "cron":"@weekly"
+},
+{
+    "projectname":"strigiclient",
+    "cron":"@weekly"
+},
+{
+    "projectname":"strigidaemon",
+    "cron":"@weekly"
+},
+{
+    "projectname":"strigiutils",
+    "downstream":"strigidaemon",
+    "cron":"@weekly"
+},
+{
+    "projectname":"superkaramba",
+    "cron":"@weekly"
+},
+{
+    "projectname":"svgmod",
+    "cron":"@weekly"
+},
+{
+    "projectname":"svgpart",
+    "cron":"@weekly"
+},
+{
+    "projectname":"sweeper",
+    "cron":"@weekly"
+},
+{
+    "projectname":"symboleditor",
+    "cron":"@weekly"
+},
+{
+    "projectname":"synchrotron-sources",
+    "cron":"@weekly"
+},
+{
+    "projectname":"synchrotron",
+    "cron":"@weekly"
+},
+{
+    "projectname":"syndication",
+    "cron":"@weekly"
+},
+{
+    "projectname":"systemsettings",
+    "cron":"@weekly"
+},
+{
+    "projectname":"telegram-qt",
+    "cron":"@weekly"
+},
+{
+    "projectname":"telepathy-qt",
+    "email":"mklapetek@kde.org ",
+    "irc":"#kde-telepathy",
+    "cron":"@weekly"
+},
+{
+    "projectname":"telepathy-logger-qt",
+    "email":"mklapetek@kde.org ",
+    "irc":"#kde-telepathy",
+    "cron":"@weekly"
+},
+{
+    "projectname":"telepathy-morse",
+    "email":"mklapetek@kde.org ",
+    "irc":"#kde-telepathy",
+    "cron":"@weekly"
+},
+{
+    "projectname":"telepathy",
+    "email":"mklapetek@kde.org ",
+    "irc":"#kde-telepathy",
+    "cron":"@weekly"
+},
+{
+    "projectname":"tellico",
+    "cron":"@weekly"
+},
+{
+    "projectname":"threadweaver",
+    "downstream":"kauth"
+},
+{
+    "projectname":"tikzkit",
+    "cron":"@weekly"
+},
+{
+    "projectname":"trojita",
+    "cron":"@weekly",
+    "variations":["NoRagelorZlib","RagelandZlib","ZlibOnly"]
+},
+{
+    "projectname":"tupi",
+    "cron":"@weekly"
+},
+{
+    "projectname":"ufw-kde",
+    "cron":"@weekly"
+},
+{
+    "projectname":"umbrello",
+    "cron":"@weekly"
+},
+{
+    "projectname":"veritas",
+    "cron":"@weekly"
+},
+{
+    "projectname":"wacomtablet",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"wicd-kde",
+    "cron":"@weekly"
+},
+{
+    "projectname":"wiki-reader",
+    "cron":"@weekly"
+},
+{
+    "projectname":"xsettings-kde",
+    "cron":"@weekly"
+},
+{
+    "projectname":"yakuake",
+    "cron":"@weekly"
+},
+{
+    "projectname":"zanshin",
+    "cron":"@weekly"
+},
+{
+    "projectname":"purpose",
+    "cron":"@weekly"
+},
+{
+    "projectname":"zeroconf-ioslave",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kdesupport-svn",
+    "svn":"svn://anonsvn.kde.org/home/kde/trunk/kdesupport",
+    "branchgroups": {
+        "latest-qt4":"master",
+        "stable-qt4":"master",
+        "kf5-qt5":"master",
+        "stable-kf5-qt5":"master"
+    },
+    "cron":"@weekly"
+},
+{
+    "projectname":"libssh",
+    "git":"git://git.libssh.org/projects/libssh.git",
+    "branchgroups": {
+        "stable-kf5-qt5":"master",
+        "kf5-qt5":"master"
+    },
+    "cron":"@weekly"
+},
+{
+    "projectname":"opencv",
+    "git":"git://github.com/Itseez/opencv.git",
+    "branchgroups": {
+        "latest-qt4":"2.4",
+        "stable-qt4":"2.4",
+        "kf5-qt5":"2.4.11",
+        "stable-kf5-qt5":"2.4.11"
+    },
+    "cron":"@weekly",
+    "downstream":"libkface"
+},
+{
+    "projectname":"poppler",
+    "git":"git://git.freedesktop.org/git/poppler/poppler",
+    "branchgroups": {
+        "latest-qt4":"master",
+        "stable-qt4":"master",
+        "kf5-qt5":"master",
+        "stable-kf5-qt5":"master"
+    },
+    "cron":"@weekly"
+},
+{
+    "projectname":"qjson",
+    "git":"git://github.com/flavio/qjson.git",
+    "branchgroups": {
+        "latest-qt4":"0.8.1",
+        "stable-qt4":"0.8.1"
+    },
+    "cron":"@weekly"
+},
+{
+    "projectname":"qt-gstreamer",
+    "git":"git://anongit.freedesktop.org/gstreamer/qt-gstreamer",
+    "branchgroups": {
+        "latest-qt4":"1.2.0",
+        "stable-qt4":"1.2.0",
+        "kf5-qt5":"master",
+        "stable-kf5-qt5":"master"
+    },
+    "cron":"@weekly"
+},
+{
+    "projectname":"qoauth",
+    "git":"git://github.com/ayoy/qoauth.git",
+    "branchgroups": {
+        "latest-qt4":"master",
+        "stable-qt4":"master",
+        "kf5-qt5":"master",
+        "stable-kf5-qt5":"master"
+    },
+    "coberturareport":"false",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libdbusmenu-qt",
+    "bzr":"lp:libdbusmenu-qt",
+    "branchgroups": {
+        "latest-qt4":"master",
+        "stable-qt4":"master",
+        "kf5-qt5":"master",
+        "stable-kf5-qt5":"master"
+    },
+    "cron":"@weekly"
+},
+{
+    "projectname":"networkmanager-qt",
+    "combinations":"Linux",
+    "downstream":"solid"
+},
+{
+    "projectname":"kpackage",
+    "downstream":"kiconthemes"
+},
+{
+    "projectname":"kpeople",
+    "irc":"#kde-telepathy",
+    "cron":"@weekly"
+},
+{
+    "projectname":"kdeedu-data",
+    "cron":"@weekly"
+},
+{
+    "projectname":"mlt",
+    "git":"git://github.com/mltframework/mlt.git",
+    "branchgroups": {
+        "latest-qt4":"",
+        "stable-qt4":"",
+        "kf5-qt5":"master",
+        "stable-kf5-qt5":"master"
+    },
+    "downstream":"kdenlive",
+    "coberturareport":"false",
+    "email":"jb@kdenlive.org",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libaccounts-qt",
+    "git":"https://gitlab.com/accounts-sso/libaccounts-qt.git",
+    "branchgroups": {
+        "latest-qt4":"master",
+        "stable-qt4":"master",
+        "kf5-qt5":"master",
+        "stable-kf5-qt5":"master"
+    },
+    "downstream":"kaccounts-integration",
+    "coberturareport":"false",
+    "cron":"@weekly",
+    "email":"mklapetek@kde.org ",
+    "irc":"#kde-telepathy",
+    "combinations":"Linux"
+},
+{
+    "projectname":"grantlee",
+    "git":"git://github.com/steveire/grantlee.git",
+    "branchgroups": {
+        "latest-qt4":"v0.5.0",
+        "stable-qt4":"v0.5.0",
+        "kf5-qt5":"master",
+        "stable-kf5-qt5":"master"
+    },  
+    "cron":"@weekly"    
+},
+{
+    "projectname":"packagekit-qt",
+    "git":"git://github.com/hughsie/PackageKit-Qt.git",
+    "branchgroups": {
+        "latest-qt4":"master",
+        "stable-qt4":"master",
+        "kf5-qt5":"master",
+        "stable-kf5-qt5":"master"
+    },
+    "downstream":"apper",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libsignon-qt",
+    "git":"https://gitlab.com/accounts-sso/signond.git",
+    "branchgroups": {
+        "kf5-qt5":"master",
+        "stable-kf5-qt5":"master"
+    },
+    "coberturareport":"false",
+    "cron":"@weekly"
+},
+{
+    "projectname":"libaccounts-glib",
+    "git":"https://gitlab.com/accounts-sso/libaccounts-glib.git",
+    "branchgroups": {
+        "kf5-qt5":"master",
+        "stable-kf5-qt5":"master"
+    },
+    "coberturareport":"false",
+    "cron":"@weekly"
+},
+{
+    "projectname":"telepathy-qt4",
+    "git":"git://anongit.freedesktop.org/telepathy/telepathy-qt",
+    "branchgroups": {
+        "latest-qt4":"master",
+        "stable-qt4":"master"
+    },
+    "email":"mklapetek@kde.org ",
+    "irc":"#kde-telepathy",
+    "downstream":"telepathy-logger-qt",
+    "cron":"@weekly"
+},
+{
+    "projectname":"shared-desktop-ontologies",
+    "git":"git://git.code.sf.net/p/oscaf/shared-desktop-ontologies",
+    "branchgroups": {
+        "latest-qt4":"master",
+        "stable-qt4":"master"
+    },
+    "cron":"@weekly"
+},
+{
+    "projectname":"telepathy-qt5",
+    "git":"git://anongit.freedesktop.org/telepathy/telepathy-qt",
+    "branchgroups": {
+        "kf5-qt5":"master",
+        "stable-kf5-qt5":"master"
+    },
+    "email":"mklapetek@kde.org ",
+    "irc":"#kde-telepathy",
+    "downstream":"telepathy-logger-qt",
+    "cron":"@weekly"
+},
+{
+    "projectname":"soprano",
+    "downstream":"akonadi",
+    "cron":"@weekly"
+},
+{
+    "projectname":"mockcpp",
+    "hg":"https://bitbucket.org/godsme/mockcpp",
+    "branchgroups": {
+        "kf5-qt5":"master",
+        "stable-kf5-qt5":"master"
+    },
+    "downstream":"plasma-mediacenter",    
+    "combinations":"Linux",
+    "cron":"@weekly"
+},
+{
+    "projectname":"qextserialport",
+    "git":"git://github.com/qextserialport/qextserialport.git",
+    "branchgroups": {
+        "kf5-qt5":"master",
+        "stable-kf5-qt5":"master"
+    },
+    "cron":"@weekly"
+},
+{
+    "projectname":"quazip",
+    "git":"git://github.com/binaryking/quazip.git",
+    "branchgroups": {
+        "kf5-qt5":"master",
+        "stable-kf5-qt5":"master"
+    },
+    "cron":"@weekly"
+},
+{
+    "projectname":"pyqt5",
+    "git":"git://github.com/baoboa/pyqt5.git",
+    "branchgroups": {
+        "kf5-qt5":"master",
+        "stable-kf5-qt5":"master"
+    },
+    "cron":"@weekly"
+},
+{
+    "projectname":"kdesvn"
+},
+{
+    "projectname":"libkolab",
+    "git":"https://git.kolab.org/diffusion/LK/libkolab.git",
+    "branchgroups": {
+        "latest-qt4":"master",
+        "stable-qt4":"master"
+    },
+    "cron":"@weekly"
+},
+{
+    "projectname":"libkolabxml",
+    "git":"https://git.kolab.org/diffusion/LKX/libkolabxml.git",
+    "branchgroups": {
+        "latest-qt4":"master",
+        "stable-qt4":"libkolabxml-1.1"
+    },
+    "cron":"@weekly"
+},
+{
+    "projectname":"pyqt4",
+    "tar":"http://iweb.dl.sourceforge.net/project/pyqt/PyQt4/PyQt-4.11.3/PyQt-x11-gpl-4.11.3.tar.gz",
+    "branchgroups": {
+        "latest-qt4":"master",
+        "stable-qt4":"master"
+    },
+    "coberturareport":"false",
+    "cron":"@weekly"
+},
+{
+    "projectname":"ring",
+    "git":"https://gerrit-ring.savoirfairelinux.com/ring-daemon",
+    "branchgroups": {
+        "kf5-qt5":"master",
+        "stable-kf5-qt5":""
+    },
+    "coberturareport":"false",
+    "cron":"@weekly",
+    "combinations":"Linux"
+},
+{
+    "projectname":"vc",
+    "git":"git://gitorious.org/vc/vc.git",
+    "branchgroups": {
+        "latest-qt4":"0.7.4",
+        "stable-qt4":"0.7.4",
+        "kf5-qt5":"0.7.4",
+        "stable-kf5-qt5":"0.7.4"
+    },
+    "cron":"@weekly"
+}
+]
