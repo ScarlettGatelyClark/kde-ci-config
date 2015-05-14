@@ -758,12 +758,12 @@
 {
     "projectname":"kdev-clang",
     "cron":"@weekly",
-    "combinations":"Linux" 
+    "combinations":"LinandOSX" 
 },
 {
     "projectname":"kdev-cppcheck",
     "cron":"@weekly",
-    "combinations":"Linux"
+    "combinations":"LinandOSX" 
 },
 {
     "projectname":"kdev-control-flow-graph",
@@ -773,7 +773,7 @@
 {
     "projectname":"kdev-css",
     "cron":"@weekly",
-    "combinations":"Linux"
+    "combinations":"LinandOSX" 
 },
 {
     "projectname":"kdev-executebrowser",
@@ -788,7 +788,7 @@
 {
     "projectname":"kdev-java",
     "cron":"@weekly",
-    "combinations":"Linux"
+    "combinations":"LinandOSX" 
 },
 {
     "projectname":"kdev-krazy2",
@@ -808,32 +808,32 @@
 {
     "projectname":"kdev-php-docs",
     "cron":"@weekly",
-    "combinations":"Linux"
+    "combinations":"LinandOSX" 
 },
 {
     "projectname":"kdev-php",
     "cron":"@weekly",
-    "combinations":"Linux"
+    "combinations":"LinandOSX" 
 },
 {
     "projectname":"kdev-python",
     "cron":"@weekly",
-    "combinations":"Linux"
+    "combinations":"LinandOSX" 
 },
 {
     "projectname":"kdev-qmake",
     "cron":"@weekly",
-    "combinations":"Linux"
+    "combinations":"LinandOSX" 
 },
 {
     "projectname":"kdev-qmljs",
     "cron":"@weekly",
-    "combinations":"Linux"
+    "combinations":"LinandOSX" 
 },
 {
     "projectname":"kdev-ruby",
     "cron":"@weekly",
-    "combinations":"Linux"
+    "combinations":"LinandOSX" 
 },
 {
     "projectname":"kdev-sql",
@@ -868,16 +868,17 @@
 {
     "projectname":"kdevelop",
     "cron":"@weekly",
-    "combinations":"Linux"
+    "combinations":"LinandOSX" 
 },
 {
     "projectname":"kdevelop-pg-qt",
     "cron":"@weekly",
-    "combinations":"Linux"
+    "combinations":"LinandOSX" 
 },
 {
     "projectname":"kdevplatform",
-    "cron":"@weekly"   
+    "cron":"@weekly",
+    "combinations":"LinandOSX"    
 },
 {
     "projectname":"kdewebkit",
