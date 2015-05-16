@@ -29,26 +29,22 @@
 },
 {
     "projectname":"akonadi-calendar",
-    "cron":"@weekly",
-    "combinations":"Linux",
+    "cron":"@weekly",    
     "email":"kde-pim@kde.org"
 },
 {
     "projectname":"akonadi-exchange",
-    "cron":"@weekly",
-    "combinations":"Linux",
+    "cron":"@weekly",    
     "email":"kde-pim@kde.org"
 },
 {
     "projectname":"akonadi-facebook",
-    "cron":"@weekly",
-    "combinations":"Linux",
+    "cron":"@weekly",   
     "email":"kde-pim@kde.org"
 },
 {
     "projectname":"akonadi-git-resource",
-    "cron":"@weekly",
-    "combinations":"Linux",
+    "cron":"@weekly",    
     "email":"kde-pim@kde.org"
 },
 {
@@ -58,8 +54,7 @@
 },
 {
     "projectname":"akonadi-search",
-    "cron":"@weekly",
-    "combinations":"Linux",
+    "cron":"@weekly",    
     "email":"kde-pim@kde.org"
 },
 {
@@ -74,7 +69,7 @@
 },
 {
     "projectname":"akonadi",
-    "cron":"@weekly",
+    "cron":"@weekly",    
     "email":"kde-pim@kde.org"
 },
 {
@@ -755,14 +750,12 @@
 },
 {
     "projectname":"kdepim",
-    "cron":"@weekly",
-    "combinations":"Linux",
+    "cron":"@weekly",    
     "email":"kde-pim@kde.org"
 },
 {
     "projectname":"kdepim-runtime",
-    "cron":"@weekly",
-    "combinations":"Linux",
+    "cron":"@weekly",    
     "email":"kde-pim@kde.org"
 },
 {
@@ -1282,6 +1275,7 @@
 {
     "projectname":"kmix",
     "email":"esken@kde.org, kde-multimedia@kde.org",
+    "combinations":"Linux",
     "cron":"@weekly"
 },
 {
