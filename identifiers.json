@@ -88,10 +88,12 @@
 },
 {
     "projectname":"alkimia",
+    "email":"kmymoney-devel@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"amarok",
+    "email":"amarok-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -100,6 +102,7 @@
 },
 {
     "projectname":"analitza",
+    "email":"kde-edu@kde.org",
     "cron":"@weekly",
     "combinations":"Linux"
 },
@@ -113,6 +116,7 @@
 },
 {
     "projectname":"ark",
+    "email":"kde-utils-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -122,6 +126,7 @@
 },
 {
     "projectname":"artikulate",
+    "email":"kde-edu@kde.org",
     "cron":"@weekly",
     "combinations":"Linux"
 },
@@ -144,6 +149,7 @@
 },
 {
     "projectname":"baloo",
+    "email":"me@vhanda.in",
     "cron":"@weekly",
     "combinations":"Linux"
 },
@@ -153,6 +159,7 @@
 },
 {
     "projectname":"blinken",
+    "email":"kde-edu@kde.org",
     "cron":"@weekly"
 },
 {
@@ -177,6 +184,7 @@
 },
 {
     "projectname":"bomber",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -185,6 +193,7 @@
 },
 {
     "projectname":"bovo",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -204,6 +213,7 @@
 },
 {
     "projectname":"cantor",
+    "email":"kde-edu@kde.org",
     "cron":"@weekly"
 },
 {
@@ -293,6 +303,7 @@
 },
 {
     "projectname":"extra-cmake-modules",
+    "email":"kde-buildsystem@kde.org",
     "cron":"@weekly",
     "combinations":"LinandOSX"
 },
@@ -302,6 +313,7 @@
 },
 {
     "projectname":"filelight",
+    "email":"kde-utils-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -315,10 +327,12 @@
 {
     "projectname":"frameworkintegration",
     "downstream":"kjs",
+    "email":"kde-frameworks-devel@kde.org",
     "combinations":"LinandOSX"
 },
 {
     "projectname":"gcompris",
+    "email":"kde-edu@kde.org",
     "cron":"@weekly"
 },
 {
@@ -344,6 +358,7 @@
 },
 {
     "projectname":"granatier",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -410,6 +425,7 @@
 },
 {
     "projectname":"kajongg",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -418,6 +434,7 @@
 },
 {
     "projectname":"kalgebra",
+    "email":"kde-edu@kde.org",
     "cron":"@weekly",
     "combinations":"Linux"
 },
@@ -427,6 +444,7 @@
 },
 {
     "projectname":"kalzium",
+    "email":"kde-edu@kde.org",
     "cron":"@weekly"
 },
 {
@@ -439,6 +457,7 @@
 },
 {
     "projectname":"kanagram",
+    "email":"kde-edu@kde.org",
     "cron":"@weekly"
 },
 {
@@ -451,20 +470,24 @@
 },
 {
     "projectname":"kapidox",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"karchive",
     "combinations":"LinandOSX"
 },
 {
     "projectname":"kapman",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"kapptemplate",
+    "email":"annma@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"karchive",
     "downstream":"kcodecs",
+    "email":"kde-frameworks-devel@kde.org",
     "combinations":"LinandOSX"
 },
 {
@@ -477,10 +500,12 @@
 },
 {
     "projectname":"kate",
+    "email":"kwrite-devel@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"katomic",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -489,6 +514,7 @@
 },
 {
     "projectname":"kauth",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kcompletion",
     "combinations":"LinandOSX"
 },
@@ -498,10 +524,12 @@
 },
 {
     "projectname":"kblackbox",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"kblocks",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -510,19 +538,23 @@
 },
 {
     "projectname":"kbookmarks",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kwallet",
     "combinations":"LinandOSX"
 },
 {
     "projectname":"kbounce",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"kbreakout",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"kbruch",
+    "email":"kde-edu@kde.org",
     "cron":"@weekly"
 },
 {
@@ -531,6 +563,7 @@
 },
 {
     "projectname":"kcalc",
+    "email":"kde-utils-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -543,6 +576,7 @@
 },
 {
     "projectname":"kcharselect",
+    "email":"kde-utils-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -559,10 +593,12 @@
 },
 {
     "projectname":"kcmutils",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kactivities"
 },
 {
     "projectname":"kcodecs",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kconfig"
 },
 {
@@ -575,15 +611,17 @@
 },
 {
     "projectname":"kcompletion",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kcrash"
 },
 {
-    "projectname":"kconfig",
+    "projectname":"kconfig",    
     "downstream":"kcoreaddons",
-    "email":"kdeci@mjdsystems.ca"
+    "email":"kdeci@mjdsystems.ca, kde-frameworks-devel@kde.org"
 },
 {
     "projectname":"kconfigwidgets",
+    "email":"kde-frameworks-devel@kde.org, kde-frameworks-devel@kde.org",
     "downstream":"kservice"
 },
 {
@@ -592,10 +630,12 @@
 },
 {
     "projectname":"kcoreaddons",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kdbusaddons"
 },
 {
     "projectname":"kcrash",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kdoctools"
 },
 {
@@ -604,6 +644,7 @@
 },
 {
     "projectname":"kdbusaddons",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kdnssd"
 },
 {
@@ -616,6 +657,7 @@
 },
 {
     "projectname":"kde-baseapps",
+    "email":"kde-frameworks-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -632,6 +674,7 @@
 },
 {
     "projectname":"kde-gtk-config",
+    "email":"plasma-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -649,6 +692,7 @@
 },
 {
     "projectname":"kdeclarative",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kcmutils"
 },
 {
@@ -670,10 +714,12 @@
 },
 {
     "projectname":"kded",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kmediaplayer"
 },
 {
     "projectname":"kdegraphics-mobipocket",
+    "email":"aacid@kde.org",
     "cron":"@weekly"
 },
 {
@@ -686,10 +732,12 @@
 },
 {
     "projectname":"kdelibs",
+    "email":"kde-core-devel@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"kdelibs4support",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"khtml"
 
 },
@@ -741,6 +789,7 @@
 },
 {
     "projectname":"kdesignerplugin",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kxmlrpcclient"
 },
 {
@@ -749,6 +798,7 @@
 },
 {
     "projectname":"kdesu",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kemoticons"
 },
 {
@@ -882,6 +932,7 @@
 },
 {
     "projectname":"kdewebkit",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kinit"
 },
 {
@@ -898,6 +949,7 @@
 },
 {
     "projectname":"kdf",
+    "email":"kde-utils-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -906,6 +958,7 @@
 },
 {
     "projectname":"kdiamond",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -914,11 +967,12 @@
 },
 {
     "projectname":"kdnssd",
-    "email":"kdeci@mjdsystems.ca",
+    "email":"kdeci@mjdsystems.ca, kde-frameworks-devel@kde.org",
     "downstream":"kguiaddons"
 },
 {
     "projectname":"kdoctools",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kjobwidgets"
 },
 {
@@ -927,14 +981,17 @@
 },
 {
     "projectname":"kdots",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"kemoticons",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kpackage"
 },
 {
     "projectname":"kf5book",
+    "email":"kde-frameworks-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -943,6 +1000,7 @@
 },
 {
     "projectname":"kfloppy",
+    "email":"kde-utils-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -951,6 +1009,7 @@
 },
 {
     "projectname":"kfourinline",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -963,6 +1022,7 @@
 },
 {
     "projectname":"kgeography",
+    "email":"kde-edu@kde.org",
     "cron":"@weekly"
 },
 {
@@ -972,14 +1032,17 @@
 },
 {
     "projectname":"kglobalaccel",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"knotifications"
 },
 {
     "projectname":"kgoldrunner",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"kgpg",
+    "email":"kde-utils-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -988,10 +1051,12 @@
 },
 {
     "projectname":"kguiaddons",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"ki18n"
 },
 {
     "projectname":"khangman",
+    "email":"kde-edu@kde.org",
     "cron":"@weekly"
 },
 {
@@ -1009,19 +1074,23 @@
 },
 {
     "projectname":"khotkeys",
+    "email":"plasma-devel@kde.org",
     "cron":"@weekly",
     "combinations":"Linux"
 },
 {
     "projectname":"khtml",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kjsembed"
 },
 {
     "projectname":"ki18n",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kidletime"
 },
 {
     "projectname":"kiconthemes",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"ktextwidgets"
 },
 {
@@ -1031,14 +1100,17 @@
 },
 {
     "projectname":"kidletime",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kimageformats"
 },
 {
     "projectname":"kig",
+    "email":"kde-edu@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"kigo",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -1048,10 +1120,12 @@
 },
 {
     "projectname":"killbots",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"kimageformats",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kitemmodels"
 },
 {
@@ -1064,11 +1138,13 @@
 },
 {
     "projectname":"kinfocenter",
+    "email":"plasma-devel@kde.org, kde-frameworks-devel@kde.org",
     "cron":"@weekly",
     "combinations":"Linux"
 },
 {
     "projectname":"kinit",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kded"
 },
 {
@@ -1089,6 +1165,7 @@
 },
 {
     "projectname":"kio",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kdeclarative"
 },
 {
@@ -1101,34 +1178,42 @@
 },
 {
     "projectname":"kiriki",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"kitemmodels",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kitemviews"
 },
 {
     "projectname":"kitemviews",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kplotting"
 },
 {
     "projectname":"kiten",
+    "email":"kde-edu@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"kjobwidgets",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kpty"
 },
 {
     "projectname":"kjs",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kdelibs4support"
 },
 {
     "projectname":"kjsembed",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kross"
 },
 {
     "projectname":"kjumpingcube",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -1137,14 +1222,17 @@
 },
 {
     "projectname":"klettres",
+    "email":"kde-edu@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"klickety",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"klines",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -1157,6 +1245,7 @@
 },
 {
     "projectname":"kmahjongg",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -1171,10 +1260,12 @@
 },
 {
     "projectname":"kmediaplayer",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"knewstuff"
 },
 {
     "projectname":"kmenuedit",
+    "email":"plasma-devel@kde.org",
     "cron":"@weekly",
     "combinations":"Linux"
 },
@@ -1185,10 +1276,12 @@
 },
 {
     "projectname":"kmines",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"kmix",
+    "email":"esken@kde.org, kde-multimedia@kde.org",
     "cron":"@weekly"
 },
 {
@@ -1206,6 +1299,7 @@
 },
 {
     "projectname":"kmplot",
+    "email":"kde-edu@kde.org",
     "cron":"@weekly"
 },
 {
@@ -1214,18 +1308,22 @@
 },
 {
     "projectname":"kmymoney",
+    "email":"kmymoney-devel@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"knavalbattle",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"knetwalk",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"knewstuff",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"knotifyconfig"
 },
 {
@@ -1239,10 +1337,11 @@
 {
     "projectname":"knotifications",
     "downstream":"kxmlgui",
-    "email":"mklapetek@kde.org"
+    "email":"mklapetek@kde.org, kde-frameworks-devel@kde.org"
 },
 {
     "projectname":"knotifyconfig",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"ktexteditor"
 },
 {
@@ -1255,10 +1354,12 @@
 },
 {
     "projectname":"kolf",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"kollision",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -1267,6 +1368,7 @@
 },
 {
     "projectname":"kolourpaint",
+    "email":"christoph@maxiom.de",
     "cron":"@weekly"
 },
 {
@@ -1275,10 +1377,12 @@
 },
 {
     "projectname":"konquest",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"konsole",
+    "email":"kurt.hindenburg@gmail.com",
     "cron":"@weekly"
 },
 {
@@ -1336,6 +1440,7 @@
 },
 {
     "projectname":"kparts",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kdewebkit"
 },
 {
@@ -1344,6 +1449,7 @@
 },
 {
     "projectname":"kpat",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -1361,6 +1467,7 @@
 },
 {
     "projectname":"kplotting",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kwidgetsaddons"
 },
 {
@@ -1369,10 +1476,12 @@
 },
 {
     "projectname":"kpty",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kunitconversion"
 },
 {
     "projectname":"kqtquickcharts",
+    "email":"kde-edu@kde.org",
     "cron":"@weekly"
 },
 {
@@ -1385,6 +1494,7 @@
 },
 {
     "projectname":"krecipes",
+    "email":"krecipes-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -1397,10 +1507,12 @@
 },
 {
     "projectname":"kremotecontrol",
+    "email":"kde-utils-devel@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"kreversi",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -1413,6 +1525,7 @@
 },
 {
     "projectname":"kronometer",
+    "email":"kde-utils-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -1421,6 +1534,7 @@
 },
 {
     "projectname":"kross",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"plasma-framework"
 },
 {
@@ -1428,7 +1542,8 @@
     "cron":"@weekly"
 },
 {
-    "projectname":"krunner"
+    "projectname":"krunner",
+    "email":"kde-frameworks-devel@kde.org"
 },
 {
     "projectname":"krusader",
@@ -1453,14 +1568,17 @@
 },
 {
     "projectname":"kservice",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kdesu"
 },
 {
     "projectname":"kshisen",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"ksirk",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly",
     "combinations":"Linux"
 },
@@ -1471,6 +1589,7 @@
 },
 {
     "projectname":"ksnakeduel",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -1484,10 +1603,17 @@
 },
 {
     "projectname":"kspaceduel",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"ksquares",
+    "email":"kde-games-devel@kde.org",
+    "cron":"@weekly"
+},
+{
+    "projectname":"ksshaskpass",
+    "email":"kde-frameworks-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -1496,10 +1622,12 @@
 },
 {
     "projectname":"kstars",
+    "email":"kde-edu@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"ksudoku",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -1528,14 +1656,17 @@
 },
 {
     "projectname":"ktexteditor",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kdesignerplugin"
 },
 {
     "projectname":"ktextwidgets",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kglobalaccel"
 },
 {
     "projectname":"ktimer",
+    "email":"kde-utils-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -1549,6 +1680,7 @@
 },
 {
     "projectname":"ktouch",
+    "email":"annma@kde.org",
     "cron":"@weekly"
 },
 {
@@ -1700,10 +1832,12 @@
 },
 {
     "projectname":"ktuberling",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"kturtle",
+    "email":"kde-edu@kde.org",
     "cron":"@weekly"
 },
 {
@@ -1720,6 +1854,7 @@
 },
 {
     "projectname":"kubrick",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -1728,6 +1863,7 @@
 },
 {
     "projectname":"kunitconversion",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kconfigwidgets"
 },
 {
@@ -1736,6 +1872,7 @@
 },
 {
     "projectname":"kwallet",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kio"
 },
 {
@@ -1761,6 +1898,7 @@
 },
 {
     "projectname":"kwidgetsaddons",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kwindowsystem"
 },
 {
@@ -1774,12 +1912,14 @@
 },
 {
     "projectname":"kwindowsystem",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"solid",
     "variations":["NoX11","All"],
     "variationosx":["NoX11"]
 },
 {
     "projectname":"kwordquiz",
+    "email":"kde-edu@kde.org",
     "cron":"@weekly"
 },
 {
@@ -1788,10 +1928,12 @@
 },
 {
     "projectname":"kxmlgui",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kbookmarks"
 },
 {
     "projectname":"kxmlrpcclient",
+    "email":"kde-frameworks-devel@kde.org, kde-pim@kde.org",
     "downstream":"frameworkintegration"
 },
 {
@@ -1832,14 +1974,17 @@
 },
 {
     "projectname":"libkdeedu",
+    "email":"kde-edu@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"libkdegames",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"libkeduvocdocument",
+    "email":"kde-edu@kde.org",
     "cron":"@weekly"
 },
 {
@@ -1869,6 +2014,7 @@
 },
 {
     "projectname":"libkmahjongg",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -1890,6 +2036,7 @@
 },
 {
     "projectname":"libkscreen",
+    "email":"kde-hardware-devel@kde.org",
     "cron":"@weekly",
     "combinations":"Linux"
 },
@@ -1976,6 +2123,7 @@
 },
 {
     "projectname":"lskat",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -1990,6 +2138,7 @@
 },
 {
     "projectname":"marble",
+    "email":"kde-edu@kde.org, marble-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -1998,6 +2147,7 @@
 },
 {
     "projectname":"milou",
+    "email":"me@vhanda.in",
     "cron":"@weekly",
     "combinations":"Linux"
 },
@@ -2020,6 +2170,7 @@
 },
 {
     "projectname":"nepomuk-core",
+    "email":"nepomuk@kde.org",
     "cron":"@weekly"
 },
 {
@@ -2040,6 +2191,7 @@
 },
 {
     "projectname":"nepomuk-widgets",
+    "email":"nepomuk@kde.org",
     "cron":"@weekly"
 },
 {
@@ -2076,6 +2228,7 @@
 },
 {
     "projectname":"okular",
+    "email":"okular-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -2098,18 +2251,22 @@
 },
 {
     "projectname":"oxygen",
+    "email":"plasma-devel@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"pairs",
+    "email":"kde-edu@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"palapeli",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
     "projectname":"parley",
+    "email":"kde-edu@kde.org",
     "cron":"@weekly"
 },
 {
@@ -2147,6 +2304,7 @@
 },
 {
     "projectname":"picmi",
+    "email":"kde-games-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -2163,11 +2321,13 @@
 },
 {
     "projectname":"plasma-desktop",
+    "email":"plasma-devel@kde.org",
     "combinations":"Linux",
     "cron":"@weekly"
 },
 {
     "projectname":"plasma-framework",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"krunner",
     "variations":["NoX11","All"],
     "variationosx":["NoX11"],
@@ -2179,7 +2339,7 @@
 },
 {
     "projectname":"plasma-mediacenter",
-    "email":"Bhushan Shah <bhush94@gmail.com>",
+    "email":"bhush94@gmail.com",
     "cron":"@weekly"
 },
 {
@@ -2201,6 +2361,7 @@
 },
 {
     "projectname":"plasma-workspace",
+    "email":"plasma-devel@kde.org",
     "combinations":"Linux",
     "cron":"@weekly"
 },
@@ -2222,6 +2383,12 @@
 },
 {
     "projectname":"polkit-kde-kcmodules-1",
+    "email":"plasma-devel@kde.org",
+    "cron":"@weekly"
+},
+{
+    "projectname":"polkit-kde-agent-1",
+    "email":"plasma-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -2244,6 +2411,7 @@
 },
 {
     "projectname":"print-manager",
+    "email":"kde-utils-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -2333,6 +2501,7 @@
 },
 {
     "projectname":"rocs",
+    "email":"kde-edu@kde.org",
     "cron":"@weekly"
 },
 {
@@ -2341,6 +2510,7 @@
 },
 {
     "projectname":"sddm-kcm",
+    "email":"plasma-devel@kde.org",
     "combinations":"Linux",
     "cron":"@weekly"
 },
@@ -2401,10 +2571,12 @@
 },
 {
     "projectname":"solid",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"sonnet"
 },
 {
     "projectname":"sonnet",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"threadweaver"
 },
 {
@@ -2421,6 +2593,7 @@
 },
 {
     "projectname":"step",
+    "email":"kde-edu@kde.org",
     "cron":"@weekly"
 },
 {
@@ -2446,6 +2619,7 @@
 },
 {
     "projectname":"superkaramba",
+    "email":"kde-utils-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -2458,6 +2632,7 @@
 },
 {
     "projectname":"sweeper",
+    "email":"kde-utils-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -2514,6 +2689,7 @@
 },
 {
     "projectname":"threadweaver",
+    "email":"kde-frameworks-devel@kde.org",
     "downstream":"kauth"
 },
 {
@@ -2522,6 +2698,7 @@
 },
 {
     "projectname":"trojita",
+    "email":"trojita@lists.flaska.net",
     "cron":"@weekly",
     "variations":["NoRagelorZlib","RagelandZlib","ZlibOnly"]
 },
@@ -2535,6 +2712,7 @@
 },
 {
     "projectname":"umbrello",
+    "email":"ralf.habacker@freenet.de, jorissteyn@gmail.com",
     "cron":"@weekly"
 },
 {
@@ -2564,6 +2742,7 @@
 },
 {
     "projectname":"zanshin",
+    "email":"zanshin-devel@kde.org",
     "cron":"@weekly"
 },
 {
@@ -2676,6 +2855,7 @@
 },
 {
     "projectname":"kdeedu-data",
+    "email":"kde-edu@kde.org",
     "cron":"@weekly"
 },
 {
@@ -2689,7 +2869,7 @@
     },
     "downstream":"kdenlive",
     "coberturareport":"false",
-    "email":"jb@kdenlive.org",
+    "email":"jb@kdenlive.org, kdenlive@kde.org",
     "cron":"@weekly"
 },
 {
@@ -2837,6 +3017,7 @@
         "latest-qt4":"master",
         "stable-qt4":"master"
     },
+    "email":"mollekopf@kolabsys.com",
     "cron":"@weekly"
 },
 {
@@ -2846,6 +3027,7 @@
         "latest-qt4":"master",
         "stable-qt4":"libkolabxml-1.1"
     },
+    "email":"mollekopf@kolabsys.com",
     "cron":"@weekly"
 },
 {
