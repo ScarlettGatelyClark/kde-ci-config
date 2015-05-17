@@ -800,128 +800,103 @@
 },
 {
     "projectname":"kdev-clang",
-    "cron":"@weekly",
-    "combinations":"LinandOSX" 
+    "cron":"@weekly"
 },
 {
     "projectname":"kdev-cppcheck",
-    "cron":"@weekly",
-    "combinations":"LinandOSX" 
+    "cron":"@weekly"
 },
 {
     "projectname":"kdev-control-flow-graph",
-    "cron":"@weekly",
-    "combinations":"Linux"
+    "cron":"@weekly"
 },
 {
     "projectname":"kdev-css",
-    "cron":"@weekly",
-    "combinations":"LinandOSX" 
+    "cron":"@weekly" 
 },
 {
     "projectname":"kdev-executebrowser",
-    "cron":"@weekly",
-    "combinations":"Linux"
+    "cron":"@weekly"
 },
 {
     "projectname":"kdev-go",
-    "cron":"@weekly",
-    "combinations":"Linux"
+    "cron":"@weekly"
 },
 {
     "projectname":"kdev-java",
-    "cron":"@weekly",
-    "combinations":"LinandOSX" 
+    "cron":"@weekly"
 },
 {
     "projectname":"kdev-krazy2",
-    "cron":"@weekly",
-    "combinations":"Linux"
+    "cron":"@weekly"
 },
 {
     "projectname":"kdev-mercurial",
-    "cron":"@weekly",
-    "combinations":"Linux"
+    "cron":"@weekly"
 },
 {
     "projectname":"kdev-perforce",
-    "cron":"@weekly",
-    "combinations":"Linux"
+    "cron":"@weekly" 
 },
 {
     "projectname":"kdev-php-docs",
-    "cron":"@weekly",
-    "combinations":"LinandOSX" 
+    "cron":"@weekly"
 },
 {
     "projectname":"kdev-php",
-    "cron":"@weekly",
-    "combinations":"LinandOSX" 
+    "cron":"@weekly"
 },
 {
     "projectname":"kdev-python",
-    "cron":"@weekly",
-    "combinations":"LinandOSX" 
+    "cron":"@weekly"
 },
 {
     "projectname":"kdev-qmake",
-    "cron":"@weekly",
-    "combinations":"LinandOSX" 
+    "cron":"@weekly"
 },
 {
     "projectname":"kdev-qmljs",
-    "cron":"@weekly",
-    "combinations":"LinandOSX" 
+    "cron":"@weekly"
 },
 {
     "projectname":"kdev-ruby",
-    "cron":"@weekly",
-    "combinations":"LinandOSX" 
+    "cron":"@weekly"
 },
 {
     "projectname":"kdev-sql",
-    "cron":"@weekly",
-    "combinations":"Linux"
+    "cron":"@weekly"
 },
 {
     "projectname":"kdev-upload",
-    "cron":"@weekly",
-    "combinations":"Linux"
+    "cron":"@weekly"
 },
 {
     "projectname":"kdev-valgrind",
-    "cron":"@weekly",
-    "combinations":"Linux"
+    "cron":"@weekly"
 },
 {
     "projectname":"kdev-www",
-    "cron":"@weekly",
-    "combinations":"Linux"
+    "cron":"@weekly"    
 },
 {
     "projectname":"kdev-xdebug",
-    "cron":"@weekly",
-    "combinations":"Linux"
+    "cron":"@weekly"
 },
 {
     "projectname":"kdev-xml",
-    "cron":"@weekly",
-    "combinations":"Linux"
+    "cron":"@weekly"
 },
 {
     "projectname":"kdevelop",
-    "cron":"@weekly",
-    "combinations":"LinandOSX" 
+    "cron":"@weekly"
 },
 {
     "projectname":"kdevelop-pg-qt",
-    "cron":"@weekly",
-    "combinations":"LinandOSX" 
+    "cron":"@weekly"
 },
 {
     "projectname":"kdevplatform",
-    "cron":"@weekly",
-    "combinations":"LinandOSX"    
+    "cron":"@weekly"   
 },
 {
     "projectname":"kdewebkit",
