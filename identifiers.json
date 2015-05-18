@@ -112,6 +112,7 @@
 {
     "projectname":"ark",
     "email":"kde-utils-devel@kde.org",
+    "combinations":"Linux",
     "cron":"@weekly"
 },
 {
@@ -2411,7 +2412,7 @@
     "projectname":"qt",
     "logrotator":"-1,5,-1,-1",
     "downstream":"automoc",
-    "coberturareport":"false",
+    "coberturareport":"false",    
     "cron":"@weekly"
 },
 {
@@ -2419,9 +2420,7 @@
     "logrotator":"-1,5,-1,-1", 
     "downstream":"extra-cmake-modules",
     "coberturareport":"false",
-    "cron":"@weekly",
-    "email":"sgclark@kubuntu.org",
-    "irc":"#kde-builds",
+    "cron":"@weekly",    
     "combinations":"default"
 },
 {
