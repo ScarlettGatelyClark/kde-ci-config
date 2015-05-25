@@ -29,6 +29,8 @@ general/qextserialport: qt5
 general/quazip: qt5
 general/pyqt5: qt5
 general/ring: -qt5
+general/libgit2: qt5
+general/libqgit2: general/libgit2
 
 
 # KDE Frameworks
