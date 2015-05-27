@@ -64,6 +64,7 @@ extragear/office/skrooge: general/grantlee
 
 # Calligra
 calligra: kdesupport/qca
+calligra: general/vc
 
 # Extragear
 extragear/libs/libkface: general/opencv
