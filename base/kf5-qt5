@@ -45,6 +45,9 @@ kde/workspace/kio-extras: general/libssh
 # kdepim
 kde/kdepim: general/grantlee
 
+#KDE Graphics
+kde/kdegraphics/okular: general/poppler
+
 #KDE multimedia
 kde/kdemultimedia/kdenlive: general/mlt
 
