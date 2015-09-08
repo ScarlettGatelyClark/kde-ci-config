@@ -32,7 +32,7 @@ general/poppler: qt5
 general/ring: -qt5
 general/libgit2: qt5
 general/libqgit2: general/libgit2
-
+general/avogadrolibs: qt5
 
 # KDE Frameworks
 frameworks/kauth: kdesupport/polkit-qt-1
@@ -58,6 +58,7 @@ kde/kdeedu/analitza: general/qt-gstreamer
 #kde/kdeedu/marble: general/qextserialport
 kde/kdeedu/marble: general/quazip
 kde/kdeedu/rocs: general/grantlee
+kde/kdeedu/kalzium: general/avogadrolibs
 
 # KDE Network
 kde/kdenetwork/kaccounts-integration[master]: general/libaccounts-qt
