@@ -67,6 +67,7 @@ kde/kdenetwork/kaccounts-integration[master]: general/libaccounts-qt
 kde/kdenetwork/kaccounts-integration[master]: general/libsignon-qt
 kde/kdenetwork/ktp-common-internals: general/telepathy-qt5
 kde/kdenetwork/signon-kwallet-extension: general/libsignon-qt
+kde/kdenetwork/kdenetwork-filesharing: general/packagekit-qt
 
 # Extragear Office
 extragear/office/tellico: general/kdesupport-svn
