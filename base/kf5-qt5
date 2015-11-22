@@ -35,6 +35,7 @@ general/libqgit2: general/libgit2
 general/molequeue: qt5
 general/avogadrolibs: qt5
 general/avogadrolibs: general/molequeue
+general/flatbuffers: -qt5
 
 # KDE Frameworks
 frameworks/kauth: kdesupport/polkit-qt-1
