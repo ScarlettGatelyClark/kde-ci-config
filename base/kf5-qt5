@@ -97,6 +97,7 @@ playground/network/sflphone-kde[master]: kde/kdelibs[frameworks]
 # Playground PIM
 playground/libs/async: qt5
 playground/pim/akonadi-next: qt5
+playground/pim/akonadi-next: general/libgit2
 playground/pim/kontact-quick: qt5
 playground/pim/kontact-quick: playground/pim/akonadi-next
 playground/pim/akonadi-next: general/flatbuffers
