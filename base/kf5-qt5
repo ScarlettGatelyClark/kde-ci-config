@@ -35,6 +35,7 @@ general/libqgit2: general/libgit2
 general/molequeue: qt5
 general/avogadrolibs: qt5
 general/avogadrolibs: general/molequeue
+general/flatbuffers: -qt5
 
 # KDE Frameworks
 frameworks/kauth: kdesupport/polkit-qt-1
@@ -91,6 +92,13 @@ extragear/network/libringclient: general/ring
 playground/network/sflphone-kde[master]: -kde/kdelibs
 playground/network/sflphone-kde[master]: -kde/kdepimlibs
 playground/network/sflphone-kde[master]: kde/kdelibs[frameworks]
+
+# Playground PIM
+playground/libs/async: qt5
+playground/pim/akonadi-next: qt5
+playground/pim/kontact-quick: qt5
+playground/pim/kontact-quick: playground/pim/akonadi-next
+playground/pim/akonadi-next: general/flatbuffers
 
 # Books
 books/kf5book: general/snippetextractor
