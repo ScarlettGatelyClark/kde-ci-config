@@ -68,6 +68,7 @@ kde/kdenetwork/kaccounts-integration[master]: general/libaccounts-qt
 kde/kdenetwork/kaccounts-integration[master]: general/libsignon-qt
 kde/kdenetwork/ktp-common-internals: general/telepathy-qt5
 kde/kdenetwork/signon-kwallet-extension: general/libsignon-qt
+kde/kdenetwork/kdenetwork-filesharing: general/packagekit-qt
 
 # Extragear Office
 extragear/office/tellico: general/kdesupport-svn
@@ -93,13 +94,14 @@ playground/network/sflphone-kde[master]: -kde/kdelibs
 playground/network/sflphone-kde[master]: -kde/kdepimlibs
 playground/network/sflphone-kde[master]: kde/kdelibs[frameworks]
 
-
-#playground PIM
-playground/libs/kasync: qt5
-playground/pim/kontact-quick: qt5
+# Playground PIM
+playground/libs/async: qt5
 playground/pim/akonadi-next: qt5
-playground/pim/akonadi-next: playground/libs/kasync
+playground/pim/akonadi-next: general/libgit2
+playground/pim/kontact-quick: qt5
 playground/pim/kontact-quick: playground/pim/akonadi-next
+playground/pim/kontact-quick: frameworks/kpackage
+playground/pim/akonadi-next: general/flatbuffers
 
 # Books
 books/kf5book: general/snippetextractor
