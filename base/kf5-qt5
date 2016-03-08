@@ -46,6 +46,7 @@ frameworks/kfilemetadata: general/poppler
 kde/*: general/kdesupport-svn
 kde/workspace/plasma-workspace: general/libdbusmenu-qt
 kde/workspace/kio-extras: general/libssh
+kde/workspace/khelpcenter: general/grantlee
 
 # kdepim
 kde/kdepim: general/grantlee
