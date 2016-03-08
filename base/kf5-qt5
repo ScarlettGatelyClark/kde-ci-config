@@ -40,6 +40,7 @@ general/flatbuffers: -qt5
 # KDE Frameworks
 frameworks/kauth: kdesupport/polkit-qt-1
 frameworks/ktexteditor: general/libgit2
+frameworks/kfilemetadata: general/poppler
 
 # KDE Workspaces
 kde/*: general/kdesupport-svn
@@ -73,10 +74,13 @@ kde/kdenetwork/kdenetwork-filesharing: general/packagekit-qt
 # Extragear Office
 extragear/office/tellico: general/kdesupport-svn
 extragear/office/skrooge: general/grantlee
+extragear/office/tellico: general/poppler
+extragear/office/kbibtex: general/poppler
 
 # Calligra
 calligra: kdesupport/qca
 calligra: general/vc
+calligra/krita: general/poppler
 
 # Extragear
 extragear/libs/libkface: general/opencv
